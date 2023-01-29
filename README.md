@@ -15,7 +15,7 @@ These instructions will get you a copy of the project up and running on your loc
 
 **To set up the project on your local machine, you will need to do the following:**
 
-- Clone the repository to your local machine using the command git clone https://github.com/yourusername/Ice-Cream-Shop-Management-System.git
+- Clone the repository to your local machine using the command git clone https://github.com/tasmimtahsin02/IceCreamShopManagementSystem-DB.git
 - Import the SQL file in the database management system of your choice.
 - Open the project in your code editor and update the database connection details in the config.php file.
 - Open the project in a web browser, and you should be able to see the homepage
