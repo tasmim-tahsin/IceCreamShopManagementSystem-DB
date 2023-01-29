@@ -3,9 +3,10 @@ A database management system using SQL for tracking inventory and sales at an ic
 This is a SQL database project that aims to provide a simple and efficient way to manage an ice cream shop. The system includes features to manage inventory, customer orders, and employee information.
 
 ### Getting Started
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
+These instructions will get you a idea of the project up and running on your local machine for development and testing purposes.
 
 ### Prerequisites
+
 **In order to run this project, you will need the following:**
 
 - A computer running Windows, MacOS or Linux.
@@ -13,12 +14,6 @@ These instructions will get you a copy of the project up and running on your loc
 - A code editor such as Visual Studio Code or Sublime Text.
 - Installing
 
-**To set up the project on your local machine, you will need to do the following:**
-
-- Clone the repository to your local machine using the command git clone https://github.com/tasmimtahsin02/IceCreamShopManagementSystem-DB.git
-- Import the SQL file in the database management system of your choice.
-- Open the project in your code editor and update the database connection details in the config.php file.
-- Open the project in a web browser, and you should be able to see the homepage
 
 ### Features
 
@@ -46,10 +41,9 @@ This project is licensed under the MIT License - see the LICENSE.md file for det
 
 ### Additional Information
 
-- The project is a CRUD application
+- The project is not a CRUD application
 - The project is responsive and mobile-friendly
-- The project has a complete login system with different user roles
-- The project can be easily integrated with other systems
+- The project can be easily implemented with other systems
 
 ### Contribution
 
